@@ -5,19 +5,19 @@
         "music": true,
         "verses": [
             {
-                "type": "Verse 1",
-                "voice": "All",
-                "value": "Iyo Nitegereje Ibintu Kristo yakoze, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
+                "songType": "Verse 1",
+                "songVoice": "All",
+                "songValue": "Iyo Nitegereje Ibintu Kristo yakoze, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
             },
             {
-                "type": "Chorus",
-                "voice": "All",
-                "value": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
+                "songType": "Chorus",
+                "songVoice": "All",
+                "songValue": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
             },
             {
-                "type": "Verse 2",
-                "voice": "All",
-                "value": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
+                "songType": "Verse 2",
+                "songVoice": "All",
+                "songValue": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
             }
         ]
     },
@@ -27,39 +27,39 @@
         "music": false,
         "verses": [
             {
-                "type": "Verse 1",
-                "voice": "All",
-                "value": "Iyo Nitegereje Ibintu Kristo yakoze, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
+                "songType": "Verse 1",
+                "songVoice": "All",
+                "songValue": "Ntabwo nkwiriye, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
             },
             {
-                "type": "Chorus",
-                "voice": "All",
-                "value": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
+                "songType": "Chorus",
+                "songVoice": "All",
+                "songValue": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
             },
             {
-                "type": "Verse 2",
-                "voice": "All",
-                "value": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
+                "songType": "Verse 2",
+                "songVoice": "All",
+                "songValue": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
             },
             {
-                "type": "Chorus",
-                "voice": "All",
-                "value": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
+                "songType": "Chorus",
+                "songVoice": "All",
+                "songValue": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
             },
             {
-                "type": "Verse 2",
-                "voice": "All",
-                "value": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
+                "songType": "Verse 2",
+                "songVoice": "All",
+                "songValue": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
             },
             {
-                "type": "Chorus",
-                "voice": "All",
-                "value": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
+                "songType": "Chorus",
+                "songVoice": "All",
+                "songValue": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
             },
             {
-                "type": "Verse 2",
-                "voice": "All",
-                "value": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
+                "songType": "Verse 2",
+                "songVoice": "All",
+                "songValue": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
             }
         ]
     },
@@ -69,19 +69,19 @@
         "music": true,
         "verses": [
             {
-                "type": "Verse 1",
-                "voice": "All",
-                "value": "Iyo Nitegereje Ibintu Kristo yakoze, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
+                "songType": "Verse 1",
+                "songVoice": "All",
+                "songValue": "Yesu niwe buye rizima nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
             },
             {
-                "type": "Chorus",
-                "voice": "All",
-                "value": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
+                "songType": "Chorus",
+                "songVoice": "All",
+                "songValue": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
             },
             {
-                "type": "Verse 2",
-                "voice": "All",
-                "value": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
+                "songType": "Verse 2",
+                "songVoice": "All",
+                "songValue": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
             }
         ]
     },
@@ -91,19 +91,19 @@
         "music": false,
         "verses": [
             {
-                "type": "Verse 1",
-                "voice": "All",
-                "value": "Iyo Nitegereje Ibintu Kristo yakoze, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
+                "songType": "Verse 1",
+                "songVoice": "All",
+                "songValue": "Iyo Nitegereje Ibintu Kristo yakoze, nsanga birenze ubwenge bw'abantu, ibihumeka byose reka bigushime , kuko uri umukozoi w'umuhanga (x2)"
             },
             {
-                "type": "Chorus",
-                "voice": "All",
-                "value": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
+                "songType": "Chorus",
+                "songVoice": "All",
+                "songValue": "Akira icyubahiro, akira icyubahiro abo. kwisi bose bakuramye , ibintu wakoze wabikoranye ubuhanga niyo mpamvu ngiranti uri umuhanga  (x2)"
             },
             {
-                "type": "Verse 2",
-                "voice": "All",
-                "value": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
+                "songType": "Verse 2",
+                "songVoice": "All",
+                "songValue": "Wahanitse ikirere wemera ko kibaho nta rufatiro , utandukanya amazi n'ubutaka, abantu nibintu ubyuzuza iyisi, niyo mpamvu ngira nti uri umuhanga (x2)"
             }
         ]
     }
