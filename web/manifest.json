@@ -1,6 +1,6 @@
 {
-    "name": "amazing_app",
-    "short_name": "amazing_app",
+    "name": "amazing_app.v1",
+    "short_name": "amazing_app.v1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

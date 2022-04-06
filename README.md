@@ -1,4 +1,4 @@
-# amazing_app
+# amazing_app.v1
 
 A new Flutter project.
 

@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:amazing_app/data/singleSongData.dart';
-import 'package:amazing_app/data/songData.dart';
-import 'package:amazing_app/page/singleSong.dart';
+import 'package:amazing_app.v1/data/singleSongData.dart';
+import 'package:amazing_app.v1/data/songData.dart';
+import 'package:amazing_app.v1/page/singleSong.dart';
 import "package:flutter/material.dart";
 import 'package:flutter/services.dart';
 import 'package:flutter/widgets.dart';
@@ -66,7 +66,7 @@ class _SongState extends State<Song> {
 
       print(enteredKeyword.toLowerCase());
 
-      songList.forEach(( songDetail) {
+      songList.forEach((songDetail) {
         if (songDetail.name
                 .toLowerCase()
                 .contains(enteredKeyword.toLowerCase()) ||

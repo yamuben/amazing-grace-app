@@ -1,6 +1,6 @@
-import 'package:amazing_app/page/aboutus.dart';
-import 'package:amazing_app/page/commitee.dart';
-import 'package:amazing_app/page/song.dart';
+import 'package:amazing_app.v1/page/aboutus.dart';
+import 'package:amazing_app.v1/page/commitee.dart';
+import 'package:amazing_app.v1/page/song.dart';
 import 'package:flutter/material.dart';
 
 class Home extends StatefulWidget {
@@ -25,14 +25,16 @@ class _HomeState extends State<Home> {
         bucket: bucket,
       ),
       floatingActionButton: FloatingActionButton(
-        backgroundColor:  currentTab == 0 ? Colors.green:Colors.grey,
-        child: Icon(Icons.audiotrack_outlined, color:Colors.white,),
+        backgroundColor: currentTab == 0 ? Colors.green : Colors.grey,
+        child: Icon(
+          Icons.audiotrack_outlined,
+          color: Colors.white,
+        ),
         onPressed: () {
-
-                        setState(() {
-                          currentSCreen = Song();
-                          currentTab = 0;
-                        });
+          setState(() {
+            currentSCreen = Song();
+            currentTab = 0;
+          });
         },
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
